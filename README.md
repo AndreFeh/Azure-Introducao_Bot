@@ -1,3 +1,4 @@
+## Bot da Azure IA
 Esse projeto se dá a necessidade de resultados, 
 	onde quando há um numero enorme de respostas em pesquisas
 
@@ -65,6 +66,22 @@ Maos na massa
 
 			Pois ele faz uma analise de sentimentos e retorna uma estatistica conforme o texto escrito
 
+## IA Generativa COPILOT e OPENAI
 
+	Passos necessarios quando trabalhamos com uma IA
 
+		Identificar
+			Quando podemos ver possiveis danos para a solução planejada
+
+		Medida
+			Planejar medidas para esses danos saindo pelas soluções
+
+		Mitigar
+			Filtrar em varias camadas esses danos para minimizar os impactos
+
+		Operar
+			Solução com resposabilidade definindo e seguindo com plano de implantação e preparação operacional
+
+	Trabalhando com COPILOT
+		Quando trabalhamos com essa IA, conseguimos gerar respostas gerar imagens, geração de codigos e muito mais.
 
